@@ -1,0 +1,12 @@
+$TTL 1D
+@		IN	SOA		ns.highmaru.com. root.highmaru.com. (
+													01	; serial
+													8H	; refresh
+													2H	; retry
+													4W	; expire
+													1D	)	; minimum
+		IN	NS		ns.highmaru.com.
+59	IN	PTR		www.highmaru.com.
+59	IN	PTR		mail.highmaru.com.
+59	IN	PTR		git.highmaru.com.
+59	IN	PTR		redmine.highmaru.com.
